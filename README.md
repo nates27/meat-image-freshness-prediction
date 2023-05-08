@@ -11,7 +11,9 @@ Meat Freshness Prediction <!-- omit from toc -->
 
 Summary
 ------------
-Trained ResNet models to detect rotting meat in supermarkets based on their image. Used the expected value framework to determine which model will be the best for deployment base on the cost of misclassifying items
+Trained ResNet models to detect rotting meat in supermarkets based on their image. Used the expected value framework to determine which model will be the best for deployment base on the cost of misclassifying items.
+
+Full details published in [arXiv](https://arxiv.org/abs/2305.00986).
 
 Model Prediction Results
 ------------
